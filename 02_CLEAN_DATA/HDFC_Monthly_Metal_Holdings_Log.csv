@@ -1,0 +1,42 @@
+Report_Date,Report_Month,Metal,Instrument_Name,Market_Value_Lakh,NAV_Pct,Source_File,Source_Row
+2024-01-31,2024-01,Gold,HDFC Gold Exchange Traded Fund,27197.83,11.3,Monthly HDFC Multi-Asset Fund - 31 January 2024.xlsx,114
+2024-02-29,2024-02,Gold,HDFC Gold Exchange Traded Fund,26949.13,10.66,Monthly HDFC Multi-Asset Fund - 29 February 2024.xlsx,115
+2024-03-31,2024-03,Gold,HDFC Gold Exchange Traded Fund,29003.39,10.98,Monthly HDFC Multi-Asset Fund - 31 March 2024.xlsx,117
+2024-04-30,2024-04,Gold,HDFC Gold Exchange Traded Fund,31266.56,11.17,Monthly HDFC Multi-Asset Fund - 30 April 2024.xlsx,122
+2024-05-31,2024-05,Gold,HDFC Gold Exchange Traded Fund,31425.73,10.85,Monthly HDFC Multi-Asset Fund - 31 May 2024.xlsx,122
+2024-06-30,2024-06,Gold,HDFC Gold Exchange Traded Fund,32796.06,10.44,Monthly HDFC Multi-Asset Fund - 30 June 2024.xlsx,131
+2024-07-31,2024-07,Gold,HDFC Gold Exchange Traded Fund,36686.47,10.96,Monthly HDFC Multi-Asset Fund - 31 July 2024.xlsx,131
+2024-08-31,2024-08,Gold,HDFC Gold Exchange Traded Fund,37886.24,10.75,Monthly HDFC Multi-Asset Fund - 31 August 2024.xlsx,135
+2024-09-30,2024-09,Gold,HDFC Gold Exchange Traded Fund,42154.96,11.39,Monthly HDFC Multi-Asset Fund - 30 September 2024.xlsx,131
+2024-10-31,2024-10,Gold,HDFC Gold Exchange Traded Fund,44295.82,11.78,Monthly HDFC Multi-Asset Fund - 31 October 2024.xlsx,131
+2024-11-30,2024-11,Gold,HDFC Gold Exchange Traded Fund,42637.14,11.17,Monthly HDFC Multi-Asset Fund - 30 November 2024.xlsx,133
+2024-12-31,2024-12,Gold,HDFC Gold Exchange Traded Fund,42476.41,11.05,Monthly HDFC Multi-Asset Fund - 31 December 2024.xlsx,138
+2025-01-31,2025-01,Gold,HDFC Gold Exchange Traded Fund,45645.91,11.73,Monthly HDFC Multi-Asset Fund - 31 January 2025.xlsx,142
+2025-02-28,2025-02,Gold,HDFC Gold Exchange Traded Fund,47034.58,12.26,Monthly HDFC Multi-Asset Fund - 28 February 2025.xlsx,143
+2025-03-31,2025-03,Gold,HDFC Gold Exchange Traded Fund,49451.88,12.26,Monthly HDFC Multi-Asset Fund - 31 March 2025.xlsx,143
+2025-04-30,2025-04,Gold,HDFC Gold Exchange Traded Fund,47336.7,11.16,Monthly HDFC Multi-Asset Fund - 30 April 2025.xlsx,143
+2025-05-31,2025-05,Gold,HDFC Gold Exchange Traded Fund,47614.84,10.88,Monthly HDFC Multi-Asset Fund - 31 May 2025.xlsx,143
+2025-06-30,2025-06,Gold,HDFC Gold Exchange Traded Fund,47823.45,10.52,Monthly HDFC Multi-Asset Fund - 30 June 2025.xlsx,143
+2025-07-31,2025-07,Gold,HDFC Gold Exchange Traded Fund,49133.05,10.6,Monthly HDFC Multi-Asset Fund - 31 July 2025.xlsx,142
+2025-08-31,2025-08,Gold,HDFC Gold Exchange Traded Fund,51010.52,10.82,Monthly HDFC Multi-Asset Fund - 31 August 2025.xlsx,141
+2025-09-30,2025-09,Gold,HDFC Gold Exchange Traded Fund,57506.35,11.66,Monthly HDFC Multi-Asset Fund - 30 September 2025.xlsx,145
+2025-10-31,2025-10,Gold,HDFC Gold Exchange Traded Fund,59824.22,11.62,Monthly HDFC Multi-Asset Fund - 31 October 2025.xlsx,146
+2025-11-30,2025-11,Gold,HDFC Gold Exchange Traded Fund,62524.54,11.79,Monthly HDFC Multi-Asset Fund - 30 November 2025.xlsx,147
+2025-12-31,2025-12,Gold,HDFC Gold Exchange Traded Fund,65891.25,12.07,Monthly HDFC Multi-Asset Allocation Fund - 31 December 2025.xlsx,147
+2026-01-31,2026-01,Gold,HDFC Gold Exchange Traded Fund,66985.17,11.72,Monthly HDFC Multi-Asset Allocation Fund - 31 January 2026.xlsx,151
+2026-02-28,2026-02,Gold,HDFC Gold Exchange Traded Fund,66872.1,11.37,Monthly HDFC Multi-Asset Allocation Fund - 28 February 2026.xlsx,153
+2026-02-28,2026-02,Silver,HDFC Silver ETF,1215.79,0.21,Monthly HDFC Multi-Asset Allocation Fund - 28 February 2026.xlsx,154
+2026-03-31,2026-03,Gold,HDFC Gold Exchange Traded Fund,61336.71,11.04,Monthly HDFC Multi-Asset Allocation Fund - 31 March 2026.xlsx,153
+2026-03-31,2026-03,Silver,HDFC Silver ETF,2167.1,0.39,Monthly HDFC Multi-Asset Allocation Fund - 31 March 2026.xlsx,154
+2026-04-30,2026-04,Gold,HDFC Gold Exchange Traded Fund,65657.29,11.15,Monthly HDFC Multi-Asset Allocation Fund - 30 April 2026.xlsx,151
+2026-04-30,2026-04,Silver,HDFC Silver ETF,2277.5,0.39,Monthly HDFC Multi-Asset Allocation Fund - 30 April 2026.xlsx,152
+2026-05-31,2026-05,Gold,HDFC Gold Exchange Traded Fund,71496.26,12.14,Monthly HDFC Multi-Asset Allocation Fund - 31 May 2026.xlsx,153
+2026-05-31,2026-05,Silver,HDFC Silver ETF,2497.5,0.42,Monthly HDFC Multi-Asset Allocation Fund - 31 May 2026.xlsx,154
+2026-06-30,2026-06,Gold,HDFC Gold Exchange Traded Fund,64470.99,10.96,Monthly HDFC Multi-Asset Allocation Fund - 30 June 2026.xlsx,154
+2026-06-30,2026-06,Silver,HDFC Silver ETF,2132.5,0.36,Monthly HDFC Multi-Asset Allocation Fund - 30 June 2026.xlsx,155
+2026-07-31,2026-07,Gold,HDFC Gold Exchange Traded Fund,65149.29,10.89,Monthly HDFC Multi-Asset Allocation Fund - 31 July 2026.xlsx,153
+2026-07-31,2026-07,Silver,HDFC Silver ETF,10330.0,1.73,Monthly HDFC Multi-Asset Allocation Fund - 31 July 2026.xlsx,154
+2026-08-31,2026-08,Gold,HDFC Gold Exchange Traded Fund,70963.31,11.77,Monthly HDFC Multi Asset Allocation Fund - 31 August 2026 (1).xlsx,152
+2026-08-31,2026-08,Silver,HDFC Silver ETF,11150.5,1.85,Monthly HDFC Multi Asset Allocation Fund - 31 August 2026 (1).xlsx,153
+2026-09-30,2026-09,Gold,HDFC Gold Exchange Traded Fund,67695.61,11.71,Monthly HDFC Multi Asset Allocation Fund - 30 September 2026_0.xlsx,145
+2026-09-30,2026-09,Silver,HDFC Silver ETF,10481.5,1.81,Monthly HDFC Multi Asset Allocation Fund - 30 September 2026_0.xlsx,146
